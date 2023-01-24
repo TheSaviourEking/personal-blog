@@ -19,7 +19,13 @@
     .card img{
         border-radius: .95rem .95rem 0 0;
     }
-
+    .nav-links{
+        max-width: 70%;
+    }
+    .home{
+        display: none;
+        color: red;
+    }
 
     /* Blog - POST */
     .main{

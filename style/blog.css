@@ -105,3 +105,12 @@ form{
     grid-area: 5/1/6/-1;
 }
 
+blockquote{
+    padding: 0 3rem;
+    min-width: 70%;
+    color: darkgrey;
+}
+
+figcaption{
+    text-align: center;
+}
