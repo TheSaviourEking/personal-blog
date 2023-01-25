@@ -37,7 +37,7 @@ article{
 }
 .blog-post{
     gap: 1rem;
-    padding: 0 1rem;
+    padding: 1rem;
 }
 .blog-post img{
     aspect-ratio: 16/9;
